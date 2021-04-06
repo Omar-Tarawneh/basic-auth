@@ -45,7 +45,7 @@ you can check from the action tap for all the test - the link provided above- or
 - Add your dotenv File and add your PORT
   `touch .env`
   `PORT=3000`
-  `MONGODB_URI=mongodb+srv://omar:0000@api-server.xifht.mongodb.net/api-server-db?retryWrites=true&w=majorit`
+  `MONGODB_URI=mongodb+srv://omar:0000@api-server.xifht.mongodb.net/myFirstDatabase?retryWrites=true&w=majority`
 
 - Test the functionality of the app by typing:
   `npm test`
